@@ -1,4 +1,4 @@
-# Sentiment Analysis on IMDB Reviews using LSTM and Keras
+# Sentiment Analysis on IMDB Reviews using LSTM and Keras 
 
 Sentiment analysis is a text classification technique used to determine emotions, such as positive and negative sentiments in text data. In this project, we leverage the power of LSTM (Long Short-Term Memory), a recurrent neural network (RNN) architecture, to perform sentiment analysis. We implement this using the Keras deep learning library, which can be executed on the TensorFlow backend.
 
